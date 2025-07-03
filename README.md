@@ -22,6 +22,8 @@ Provide a more detailed explanation of your project.  What are its key features?
 
 ## Getting Started
 
+type python hello.py in terminal to run the code.
+
 ### Prerequisites
 
 List any software or tools that are required to run your project (e.g., Python, a specific library).
@@ -31,9 +33,6 @@ List any software or tools that are required to run your project (e.g., Python, 
 Provide step-by-step instructions on how to install your project. This could include cloning the repository, installing dependencies, etc.
 
 ## Usage
-
-How to run the hello.py file?
-type `python hello.py` in the terminal.
 
 ## Contributing
 
