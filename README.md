@@ -32,7 +32,8 @@ Provide step-by-step instructions on how to install your project. This could inc
 
 ## Usage
 
-Explain how to use your project. Provide examples or code snippets to help users get started.
+How to run the hello.py file?
+type `python hello.py` in the terminal.
 
 ## Contributing
 
